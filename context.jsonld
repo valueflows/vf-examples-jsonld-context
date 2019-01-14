@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "vf": "https://w3id.org/valueflows#",
+    "action": {
+      "@id": "vf:action",
+      "@type": "@id"
+    },
+    "affects": {
+      "@id": "vf:affects",
+      "@type": "@id"
+    },
+    "involves": {
+      "@id": "vf:involves",
+      "@type": "@id"
+    },
+    "inputOf": {
+      "@id": "vf:inputOf",
+      "@type": "@id"
+    },
+    "outputOf": {
+      "@id": "vf:outputOf",
+      "@type": "@id"
+    },
+    "provider": {
+      "@id": "vf:provider",
+      "@type": "@id"
+    },
+    "receiver": {
+      "@id": "vf:receiver",
+      "@type": "@id"
+    },
+    "under": {
+      "@id": "vf:under",
+      "@type": "@id"
+    },
+    "classifiedAs": {
+      "@id": "vf:classifiedAs",
+      "@type": "@id"
+    },
+    "resourceClassifiedAs": {
+      "@id": "vf:resourceClassifiedAs",
+      "@type": "@id"
+    },
+    "inScopeOf": {
+      "@id": "vf:inScopeOf",
+      "@type": "@id"
+    },
+    "Agent": {
+      "@id": "foaf:Agent",
+      "@type": "@id"
+    },
+    "Person": {
+      "@id": "foaf:Person",
+      "@type": "@id"
+    },
+    "Organization": {
+      "@id": "org:Organization",
+      "@type": "@id"
+    },
+    "EconomicEvent": {
+      "@id": "vf:EconomicEvent",
+      "@type": "@id"
+    },
+    "Commitment": {
+      "@id": "vf:Commitment",
+      "@type": "@id"
+    },
+    "Intent": {
+      "@id": "vf:Intent",
+      "@type": "@id"
+    },
+    "EconomicResource": {
+      "@id": "vf:EconomicResource",
+      "@type": "@id"
+    },
+    "Process": {
+      "@id": "vf:Process",
+      "@type": "@id"
+    },
+    "Agreement": {
+      "@id": "vf:Agreement",
+      "@type": "@id"
+    },
+    "Fulfillment": {
+      "@id": "vf:Fulfillment",
+      "@type": "@id"
+    },
+    "Satisfaction": {
+      "@id": "vf:Satisfaction",
+      "@type": "@id"
+    },
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "org": "http://www.w3.org/ns/org#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "qudt": "http://qudt.org/schema/qudt/",
+    "unit": "http://qudt.org/vocab/unit/",
+    "time": "http://www.w3.org/2006/time#",
+    "time:inXSDDateTimeStamp": {
+      "@type": "xsd:dateTimeStamp"
+    },
+    "wd": "http://www.wikidata.org/entity/"
+  }
+}
+
