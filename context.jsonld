@@ -98,7 +98,8 @@
     "time:inXSDDateTimeStamp": {
       "@type": "xsd:dateTimeStamp"
     },
-    "wd": "http://www.wikidata.org/entity/"
+    "wd": "http://www.wikidata.org/entity/",
+    "rgh": "https://raw.githubusercontent.com/"
   }
 }
 
