@@ -3,7 +3,7 @@
     "vf": "https://w3id.org/valueflows#",
     "action": {
       "@id": "vf:action",
-      "@type": "@id"
+      "@type": "@vocab"
     },
     "involves": {
       "@id": "vf:involves",
