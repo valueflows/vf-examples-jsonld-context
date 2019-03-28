@@ -5,12 +5,12 @@
       "@id": "vf:action",
       "@type": "@id"
     },
-    "affects": {
-      "@id": "vf:affects",
-      "@type": "@id"
-    },
     "involves": {
       "@id": "vf:involves",
+      "@type": "@id"
+    },
+    "involvesQuantity": {
+      "@id": "vf:involvesQuantity",
       "@type": "@id"
     },
     "inputOf": {
@@ -44,6 +44,14 @@
     "inScopeOf": {
       "@id": "vf:inScopeOf",
       "@type": "@id"
+    },
+    "hasBeginning": {
+      "@id": "vf:hasBeginning",
+      "@type": "xsd:dateTimeStamp"
+    },
+    "hasEnd": {
+      "@id": "vf:hasEnd",
+      "@type": "xsd:dateTimeStamp"
     },
     "Agent": {
       "@id": "foaf:Agent",
