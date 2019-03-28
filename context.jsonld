@@ -53,6 +53,18 @@
       "@id": "vf:hasEnd",
       "@type": "xsd:dateTimeStamp"
     },
+    "use": {
+      "@id": "vf:use",
+      "@type": "@id"
+    },
+    "reserve": {
+      "@id": "vf:reserve",
+      "@type": "@id"
+    },
+    "work": {
+      "@id": "vf:work",
+      "@type": "@id"
+    },
     "Agent": {
       "@id": "foaf:Agent",
       "@type": "@id"
