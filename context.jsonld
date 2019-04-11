@@ -53,6 +53,10 @@
       "@id": "vf:hasEnd",
       "@type": "xsd:dateTimeStamp"
     },
+    "hasPointInTime": {
+      "@id": "time:inXSDDateTimeStamp",
+      "@type": "xsd:dateTimeStamp"
+    },
     "use": {
       "@id": "vf:use",
       "@type": "@id"
