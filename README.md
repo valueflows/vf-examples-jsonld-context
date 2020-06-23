@@ -1,2 +1,3 @@
 # vf-examples-jsonld-context
-common JSON-LD context used by all examples in valueflows main repo
+
+**vf-examples-jsonld-context has moved to https://lab.allmende.io/valueflows/vf-examples-jsonld-context**
